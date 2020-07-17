@@ -2,8 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-guilhermessantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermessantos/)](https://www.linkedin.com/in/guilhermessantos/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/6762040/guilherme-silva-santos)](https://stackoverflow.com/users/6762040/guilherme-silva-santos)
-<!-- [![Gmail Badge](https://img.shields.io/badge/-skyrior28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skyrior28@gmail.com)](mailto:danieltsutomu@gmail.com) -->
 [![Codewars Badge](https://www.codewars.com/users/guilsantos/badges/micro)](https://www.codewars.com/users/guilsantos/badges/micro)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-skyrior28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skyrior28@gmail.com)](mailto:danieltsutomu@gmail.com) -->
 
 ### Hi there 👋
 
